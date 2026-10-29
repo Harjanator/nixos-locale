@@ -9,7 +9,9 @@ in {
 
 	i18n = {
 		defaultLocale = "en_US.UTF-8";
-		extraLocaleSettings = {
+		extraLocales = ["fi_FI.UTF-8/UTF-8"];
+		extraLocaleSettings = 
+		{
 			LC_ADDRESS = "fi_FI.UTF-8";
 			LC_IDENTIFICATION = "fi_FI.UTF-8";
 			LC_MEASUREMENT = "fi_FI.UTF-8";
@@ -19,6 +21,9 @@ in {
 			LC_PAPER = "fi_FI.UTF-8";
 			LC_TELEPHONE = "fi_FI.UTF-8";
 			LC_TIME = "fi_FI.UTF-8";
+			LC_CTYPE = "en_US.UTF8";
+			LC_MESSAGES = "en_US.UTF-8";;
+			LC_COLLATE = "fi_FI.UTF-8";
 		};
 	};
 	console = {
