@@ -22,7 +22,7 @@ in {
 			LC_TELEPHONE = "fi_FI.UTF-8";
 			LC_TIME = "fi_FI.UTF-8";
 			LC_CTYPE = "en_US.UTF8";
-			LC_MESSAGES = "en_US.UTF-8";;
+			LC_MESSAGES = "en_US.UTF-8";
 			LC_COLLATE = "fi_FI.UTF-8";
 		};
 	};
