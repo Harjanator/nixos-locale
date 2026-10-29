@@ -9,7 +9,7 @@
 
 # 🗣️ NixOS Locale
 
-> Declarative NixOS module to configure system timezone and comprehensive locale settings with en_US base with French regional formats.
+> Declarative NixOS module to configure system timezone and comprehensive locale settings with en_US base with Finnish regional formats.
 
 ## 🧩 Part of the Typovrak NixOS ecosystem
 
